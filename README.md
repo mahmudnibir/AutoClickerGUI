@@ -22,16 +22,7 @@
 
 ## 📦 Installation
 
-### 🔁 Option 1: Run Executable
-1. Download the `.zip` file containing the `AutoClickerGUI.exe`.
-2. Extract the folder and double-click `AutoClickerGUI.exe`.
-3. No Python or installation required! 💡
-
-> **Note:** The `.exe` file is larger than GitHub's 100MB limit and isn't stored here. Please download it from the release link or contact the developer.
-
----
-
-### 🐍 Option 2: Run Python Script
+### 🐍 Run Python Script
 1. Make sure Python is installed ([Download Python](https://www.python.org/downloads/)).
 2. Install dependencies:
 
